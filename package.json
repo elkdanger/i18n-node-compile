@@ -1,0 +1,25 @@
+{
+  "name": "i18n-node-compile",
+  "version": "0.0.1",
+  "description": "A compiler for i18n-node language files",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha spec/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/elkdanger/i18n-node-compile.git"
+  },
+  "keywords": [
+    "i18n",
+    "locale",
+    "languages",
+    "compiler"
+  ],
+  "author": "Steve Hobbs <elkdanger@gmail.com> (http://stevescodingblog.co.uk)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elkdanger/i18n-node-compile/issues"
+  },
+  "homepage": "https://github.com/elkdanger/i18n-node-compile#readme"
+}
